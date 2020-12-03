@@ -11,7 +11,7 @@ Website Unblocker based off the [AlloyProxy](https://github.com/titaniumnetwork-
 Join our [Discord](https://discord.gg/SU39CsVNYr)
 
 # Credits
-**[Titanium Network]**(https://github.com/titaniumnetwork-dev)
+**Titanium Network** (https://github.com/titaniumnetwork-dev)
 
 # License
 Currently using the MIT License
