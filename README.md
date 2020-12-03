@@ -3,6 +3,13 @@ Website Unblocker based off the [AlloyProxy](https://github.com/titaniumnetwork-
 
 Currently using it as a YouTube adblocker
 
+# (Updated 12/2/20):
+```
+- Completely Ad Free now! (Only using Arc)
+- Updated GitHub to look really nice and clean now
+- The best use for this website atm is for YouTube adblocking (Google reCaptcha fcks up AlloyProxy)
+```
+
 # Deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloyproxy.org)
