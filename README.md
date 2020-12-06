@@ -1,7 +1,5 @@
 # https://aeroproxy.herokuapp.com/
-Website Unblocker based off the [AlloyProxy](https://github.com/titaniumnetwork-dev/alloyproxy)!
-
-Currently using it as a YouTube adblocker
+Youtube AdBlocker based off the [AlloyProxy](https://github.com/titaniumnetwork-dev/alloyproxy)!
 
 # (Updated 12/2/20):
 ```
@@ -10,7 +8,7 @@ Currently using it as a YouTube adblocker
 - The best use for this website atm is for YouTube adblocking (Google reCaptcha fcks up AlloyProxy)
 ```
 
-# Deploy
+# Deploy and Use
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloyproxy.org)
 
