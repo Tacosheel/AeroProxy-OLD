@@ -13,9 +13,6 @@ Youtube AdBlocker based off the [AlloyProxy](https://github.com/titaniumnetwork-
 
 <a href="https://repl.it/github/titaniumnetwork-dev/alloyproxy.org" title="Run on Repl.it"><img alt="Run on Repl.it" src="https://repl.it/badge/github/titaniumnetwork-dev/alloyproxy" width="140" height="30"><img></a>
 
-# Discord
-Join our [Discord](https://discord.gg/SU39CsVNYr)
-
 # Credits
 **Titanium Network** (https://github.com/titaniumnetwork-dev)
 
