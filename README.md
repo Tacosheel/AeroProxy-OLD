@@ -3,7 +3,8 @@ Youtube AdBlocker based off the [AlloyProxy](https://github.com/titaniumnetwork-
 
 # (Updated 12/8/20):
 ```
-- Got new domain! http://ytblock.ml
+- Got new domain! (http://ytblock.ml)
+- Changed Github Repo name from AeroProxyMain -> AeroProxy (https://github.com/Tacosheel/AeroProxy)
 ```
 
 # Deploy and Use
