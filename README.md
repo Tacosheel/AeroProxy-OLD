@@ -1,11 +1,9 @@
-# https://aeroproxy.herokuapp.com/
+# http://ytblock.ml
 Youtube AdBlocker based off the [AlloyProxy](https://github.com/titaniumnetwork-dev/alloyproxy)!
 
-# (Updated 12/2/20):
+# (Updated 12/8/20):
 ```
-- Completely Ad Free now! (Only using Arc)
-- Updated GitHub to look really nice and clean now
-- The best use for this website atm is for YouTube adblocking (Google reCaptcha fcks up AlloyProxy)
+- Got new domain! http://ytblock.ml
 ```
 
 # Deploy and Use
