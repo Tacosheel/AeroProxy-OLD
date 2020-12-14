@@ -1,5 +1,5 @@
 # http://ytblock.ml
-Youtube AdBlocker based off the [AlloyProxy](https://github.com/titaniumnetwork-dev/alloyproxy)!
+Website Unblocker based off the [AlloyProxy](https://github.com/titaniumnetwork-dev/alloyproxy)!
 
 # (Updated 12/13/20):
 ```
