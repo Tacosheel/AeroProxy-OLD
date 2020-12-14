@@ -1,9 +1,9 @@
 # http://ytblock.ml
 Youtube AdBlocker based off the [AlloyProxy](https://github.com/titaniumnetwork-dev/alloyproxy)!
 
-# (Updated 12/9/20):
+# (Updated 12/13/20):
 ```
-- Addressed Security Concerns
+- Google has patched this, GitHub and website going offline in 48 hours
 ```
 # Security Concerns
 [ytblock.ml](https://www.virustotal.com/gui/url/5316873676344e048a43bda51f4b838eef6873cb2118e8896f397d53847cab79/detection)
